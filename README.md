@@ -208,18 +208,5 @@ npm run dev
 * `GET /dashboard/data` – Fetch dashboard data
 
 
-## Recent Changes
-
-**2025-12-11**
-
-* Initial SvelteKit frontend implementation
-* Login and registration with Zod validation
-* Real-time dashboard for batch and scheduled jobs
-* SMTP configuration management with connection testing
-* Email composer with Quill editor and Excel uploads
-* Dynamic placeholder support from Excel columns
-* Reports page with statistics, filters, and exports
-* Responsive UI styled with Tailwind CSS
-
 ---
 Saif Akhtar
