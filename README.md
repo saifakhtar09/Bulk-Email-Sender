@@ -151,14 +151,15 @@ Runs the backend API on **[http://localhost:3000](http://localhost:3000)**
 
 ```bash
 cd frontend
+npm install
 npm run dev
 ```
 
 Runs the SvelteKit frontend on **[http://localhost:5000](http://localhost:5000)**
 
 
-Or Run both 
-cd assignmenet
+** Or Run both 
+cd assignmenet/
 npm run dev
 
 ---
